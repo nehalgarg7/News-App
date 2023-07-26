@@ -8,7 +8,7 @@ export default class App extends Component {
   render() {
     return (
       <div>
-        <NavBar />
+        <NavBar title="myTitle" description = "mydesc"/>
         <News />
       </div>
     )
