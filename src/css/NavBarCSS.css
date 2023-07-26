@@ -1,0 +1,16 @@
+/* *{
+    margin: 0;
+    padding: 0;
+}
+
+div ul{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(16, 143, 255);
+}
+
+
+li{
+    list-style: none;
+    margin: 8px;
+} */
